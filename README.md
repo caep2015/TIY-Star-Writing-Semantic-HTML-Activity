@@ -1,3 +1,5 @@
+The Iron Yard Week 1, Day 2: In Class Activity
+
 # star-writing-html
 The Iron Yard Project 
 This assessment tests basic knowledge of HTML and semantic markup. 
